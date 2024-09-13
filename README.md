@@ -97,3 +97,7 @@ export default defineConfig({
 [GitHub Repo](https://github.com/Gera1313/react-portfolio-2)
 
 [Deployed Site]() 
+
+## Licenses
+
+## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
