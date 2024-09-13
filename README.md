@@ -90,3 +90,10 @@ export default defineConfig({
   }
 })
 ```
+
+## Links
+[React Router tutorial](https://reactrouter.com/en/main/start/tutorial#tutorial)
+
+[GitHub Repo](https://github.com/Gera1313/react-portfolio-2)
+
+[Deployed Site]() 
