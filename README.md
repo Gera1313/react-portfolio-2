@@ -62,3 +62,31 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
     * In later activities we'll add additional NPM packages to our `vite` apps such as 'bootstrap', 'dotenv', and 'axios'.
 
 6. Run `npm dev`/`npm run dev` and navigate to the prompted URL to see your app.
+
+### Further customization (Recommended)
+
+1. Navigate to your `package.json` and modify the `scripts` object so that it looks like this example:
+
+```json
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+```
+
+* Note the addition of the `"start": "vite"` script.
+
+2. Navigate to the `vite.config.js` file and edit the export object so that it looks like this example:
+
+```js
+export default defineConfig({
+  plugins: [react()],
+  server: {
+    port: 3000,
+    open: true
+  }
+})
+```
