@@ -43,3 +43,22 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 # Notes
 
+## Getting Started (for my personal use)
+
+### When you would like to scaffold a new `vite` application on your own, follow these steps
+
+1. In the command line, navigate to the desired parent folder and run `npm create vite@latest`.
+
+    * 🔑 *Note*: This command will automatically create a sub-folder which will house your React application; you do not need to perform a `mkdir` command to create one manually.
+
+2. Enter the desired name of your new project folder.
+
+3. From the first list of options, select your framework; for our activities in class, we'll be using `React`.
+
+4. From the second list of options, select your variant; for our activities in class, we'll be using `JavaScript`.
+
+5. `cd` into your newly created project folder and run `npm install`.
+
+    * In later activities we'll add additional NPM packages to our `vite` apps such as 'bootstrap', 'dotenv', and 'axios'.
+
+6. Run `npm dev`/`npm run dev` and navigate to the prompted URL to see your app.
