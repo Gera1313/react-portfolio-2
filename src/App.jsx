@@ -1,7 +1,10 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Header from './components/header'; 
+import Footer from './components/footer'; 
+import About from './components/about';
+import Portfolio from './components/portfolio';
+import Contact from './components/contact';
+import Resume from './components/resume';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,7 +19,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Vite + Reactings</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
@@ -32,4 +35,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
