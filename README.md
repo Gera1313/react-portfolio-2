@@ -50,33 +50,33 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Notes
 
 /react-portfolio-2
-├── /node_modules       # Auto-generated when you install packages
-├── /public             # Public assets like images and fonts
-│   └── vite.svg     # Optional: Your favicon file
-├── /src                # Your main source code folder
-│   ├── /assets         # Folder for any images or static assets you need
-│   │   ├── react.svg
-│   └── /styles         # Optional: CSS or styling files if not using CSS-in-JS
-│   ├── /components     # React components for your project
-│   │   ├── Header.jsx  # Header component (to include your navigation)
+├── /node_modules       # Standard folder, auto-generated
+├── /public             # Public assets, such as images or the favicon
+│   └── vite.svg        # Optional favicon
+├── /src                # Main source code folder
+│   ├── /assets         # Static assets like images
+│   │   └── react.svg
+│   ├── /styles         # Optional: Can hold your CSS/SCSS files if using stylesheets
+│   ├── /components     # Contains your React components
+│   │   ├── Header.jsx  # Header component
 │   │   ├── Footer.jsx  # Footer component
 │   │   ├── About.jsx   # About Me section
 │   │   ├── Portfolio.jsx # Portfolio section
 │   │   ├── Contact.jsx # Contact form section
 │   │   ├── Resume.jsx  # Resume section
-│   │   └── Project.jsx # Single project component (reused in Portfolio)
-│   ├── App.css         
-│   ├── App.jsx         # Main app component
-│   ├── index.css
-│   ├── main.jsx        # Entry point of your app (renders App.jsx into #root)
-├── .gitignore          # Git ignore file to exclude unnecessary files from repo
-├── eslint.config.js
-├── index.html          # Main HTML file with #root div
-├── LICENSE
-├── package-lock.json        
-├── package.json        # Project metadata and dependencies
+│   │   └── Project.jsx # Reusable project component
+│   ├── App.css         # Optional global styling for your app
+│   ├── App.jsx         # Main app file where components come together
+│   ├── index.css       # Optional global CSS for index file
+│   ├── main.jsx        # Main entry point to render App into the DOM
+├── .gitignore          # Keeps unnecessary files out of the git repository
+├── eslint.config.js    # ESLint configuration for linting
+├── index.html          # Main HTML file, renders the React app
+├── LICENSE             # Optional: License for your project
+├── package-lock.json   # Auto-generated file for npm dependencies
+├── package.json        # Holds project metadata and dependencies
 ├── vite.config.js      # Vite configuration file
-└── README.md           # Optional: Description of your project
+└── README.md           # Optional: Description of the project
 
 
 ## Getting Started (for my personal use)
