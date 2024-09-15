@@ -49,6 +49,36 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Notes
 
+/react-portfolio-2
+├── /node_modules       # Auto-generated when you install packages
+├── /public             # Public assets like images and fonts
+│   └── vite.svg     # Optional: Your favicon file
+├── /src                # Your main source code folder
+│   ├── /assets         # Folder for any images or static assets you need
+│   │   ├── react.svg
+│   └── /styles         # Optional: CSS or styling files if not using CSS-in-JS
+│   ├── /components     # React components for your project
+│   │   ├── Header.jsx  # Header component (to include your navigation)
+│   │   ├── Footer.jsx  # Footer component
+│   │   ├── About.jsx   # About Me section
+│   │   ├── Portfolio.jsx # Portfolio section
+│   │   ├── Contact.jsx # Contact form section
+│   │   ├── Resume.jsx  # Resume section
+│   │   └── Project.jsx # Single project component (reused in Portfolio)
+│   ├── App.css         
+│   ├── App.jsx         # Main app component
+│   ├── index.css
+│   ├── main.jsx        # Entry point of your app (renders App.jsx into #root)
+├── .gitignore          # Git ignore file to exclude unnecessary files from repo
+├── eslint.config.js
+├── index.html          # Main HTML file with #root div
+├── LICENSE
+├── package-lock.json        
+├── package.json        # Project metadata and dependencies
+├── vite.config.js      # Vite configuration file
+└── README.md           # Optional: Description of your project
+
+
 ## Getting Started (for my personal use)
 
 ### When you would like to scaffold a new `vite` application on your own, follow these steps
