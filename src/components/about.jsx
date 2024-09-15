@@ -23,3 +23,16 @@ function About() {
   }
 
 export default About; 
+
+// import React from 'react';
+
+// function About() {
+//   return (
+//     <div>
+//       <h1>About Me</h1>
+//       <p>This is the About Me section</p>
+//     </div>
+//   );
+// }
+
+// export default About;
