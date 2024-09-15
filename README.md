@@ -59,6 +59,8 @@ Folders & files
 │   ├── /assets         # Static assets like images
 │   │   └── react.svg
 │   ├── /styles         # Optional: Can hold your CSS/SCSS files if using stylesheets
+│   │   ├── App.css     # Optional: Global styling for your specific components
+│   │   ├── index.css   # Optional: Global CSS for index file
 │   ├── /components     # Contains your React components
 │   │   ├── Header.jsx  # Header component
 │   │   ├── Footer.jsx  # Footer component
@@ -67,9 +69,7 @@ Folders & files
 │   │   ├── Contact.jsx # Contact form section
 │   │   ├── Resume.jsx  # Resume section
 │   │   └── Project.jsx # Reusable project component
-│   ├── App.css         # Optional global styling for your app
 │   ├── App.jsx         # Main app file where components come together
-│   ├── index.css       # Optional global CSS for index file
 │   ├── main.jsx        # Main entry point to render App into the DOM
 ├── .gitignore          # Keeps unnecessary files out of the git repository
 ├── eslint.config.js    # ESLint configuration for linting

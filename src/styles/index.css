@@ -1,4 +1,8 @@
-:root {
+/* Scope: This file generally contains global styles that apply to the entire application. Use index.css for styles that affect multiple components or the overall layout of your application.
+
+Usage: Apply styles in index.css if the image styling should be global or if you want to ensure consistency across multiple components. */
+
+/* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -65,4 +69,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */

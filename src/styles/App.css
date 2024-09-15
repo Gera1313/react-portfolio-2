@@ -1,3 +1,14 @@
+/* Styling the profile image in aboutme */
+.profile-picture {
+  width: 200px;
+  height: auto;
+  border-radius: 3%;
+}
+
+/* Scope: This file is typically used for styles specific to components rendered by App.jsx. If your image is part of a component that is used only in the context of App, you might prefer to include the styles here.
+
+Usage: Apply styles in App.css if you want styles to be scoped to components that are rendered by App.jsx and if you want to keep component-specific styles organized within the component's CSS file. */
+
 /* #root {
   max-width: 1280px;
   margin: 0 auto;
