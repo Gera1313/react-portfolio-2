@@ -1,4 +1,4 @@
-## My Project
+# React Portfolio
 
 I have created a portfolio using my new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies.
 
@@ -49,6 +49,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Notes
 
+Folders & files
+
 /react-portfolio-2
 ├── /node_modules       # Standard folder, auto-generated
 ├── /public             # Public assets, such as images or the favicon
@@ -79,7 +81,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 └── README.md           # Optional: Description of the project
 
 
-## Getting Started (for my personal use)
+### Getting Started (for my personal use)...
 
 ### When you would like to scaffold a new `vite` application on your own, follow these steps
 
