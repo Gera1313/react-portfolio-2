@@ -1,58 +1,36 @@
-/* Scope: This file is typically used for styles specific to components rendered by App.jsx. If your image is part of a component that is used only in the context of App, you might prefer to include the styles here.
+/* Scope: This file is typically used for styles specific to components rendered by App.jsx (About, Portfolio, Contact, Resume). If your image is part of a component that is used only in the context of App, you might prefer to include the styles here.
 
 Usage: Apply styles in App.css if you want styles to be scoped to components that are rendered by App.jsx and if you want to keep component-specific styles organized within the component's CSS file. */
-
-
-/* Styling the profile image in aboutme */
-.profile-picture {
-  width: 200px;
-  height: auto;
-  border-radius: 3%;
-}
-
-.about-section {
-  padding-left: 20px;
-}
 
 /* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-}
-
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
 } */
+
+/* ABOUT ME */
+/* Styling the profile image */
+.profile-picture {
+  width: 200px;
+  height: auto;
+  border-radius: 4%;
+  /* margin-right: 20px; */
+}
+
+.about-section {
+  padding-left: 20px;
+  /* display: flex;
+  flex-direction: row;
+  align-items: center; */
+  /* padding: 20px; */
+}
+
+.about-content {
+  max-width: 600px;
+  margin-left: 20px;
+}
+
+/* PORTFOLIO */
+/* CONTACT */
+/* RESUME */
