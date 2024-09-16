@@ -2,10 +2,16 @@ import React from 'react';
 
 function Resume() {
   return (
-    <div>
-      <h1>My Resume</h1>
-      <p>Here’s a link to download my resume and a list of my proficiencies.</p>
-    </div>
+    <section className="resume-section">
+      <h2>Resume</h2>
+
+      {/* Resume Link To Download */}
+      <div className="resume-download">
+        <a href="./assets/resume_gerardo_perez.pdf" download>Download My Resume Here</a>
+      </div>
+
+
+    </section>
   );
 }
 
