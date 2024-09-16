@@ -20,6 +20,9 @@ function Resume() {
           <li>React.js</li>
           <li>Node.js</li>
           <li>HTML5/CSS3</li>
+          <li>SQL</li>
+          <li>NoSQL</li>
+          <li>Python</li>
           <li>REST APIs</li>
           <li>Version Control (Git/GitHub)</li>
           <li>Responsive Web Design</li>
@@ -30,20 +33,33 @@ function Resume() {
       <div className="experience-section">
         <h3>Experience</h3>
         <div className="job">
-          <h4>Junior Web Developer</h4>
-          <p>Company Name | Jan 2023 - Present</p>
+          <h4>Software Test Engineer</h4>
+          <p>Meta | Sept 2021 - Present</p>
           <ul>
             <li>
-              Developed and maintained responsive websites using React.js and
-              Node.js.
+              Work queues of bug reports generated on internal apps to ensure a strong final product for public release.
             </li>
             <li>
-              Collaborated with a team of developers to build web applications
-              for client projects.
+            Reproduce reported bugs to ensure engineers have a comprehensive, detailed report in order to fix bugs most effectively.
             </li>
             <li>
-              Worked on improving site performance and optimizing components.
+            Understand and communicate product launch risk and severity of issues to partners.
             </li>
+            <li>Meticulously document findings.</li>
+            <li>
+            Communicate effectively with cross functional partners in Operations and Product.
+            </li>
+            <li>
+            Develop test cases and scenarios in order to pinpoint the root cause of product bugs.  
+            </li>
+            <li>
+            Collaborate with team members on both general and product specific issues. 
+            </li>
+            <li>
+            Data analysis - collect and organize triage specific data.
+            </li>
+            <li>Navigate and troubleshoot SQL queries from internal users utilizing Meta internal tools.</li>
+            <li>Enter commands using Python and upload to the hardware to debug.</li>
           </ul>
         </div>
         <div className="job">
@@ -57,6 +73,12 @@ function Resume() {
             <li>
               Provided ongoing support and updates for existing client websites.
             </li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
           </ul>
         </div>
       </div>
