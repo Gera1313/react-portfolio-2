@@ -1,5 +1,6 @@
 import React from 'react';
 import profilePicture from '../assets/main-aboutme.jpeg';
+import '../styles/About.css';
 
 function About() {
     return (

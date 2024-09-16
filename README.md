@@ -59,8 +59,13 @@ Folders & files
 │   ├── /assets         # Static assets like images
 │   │   └── react.svg
 │   ├── /styles         # Optional: Can hold your CSS/SCSS files if using stylesheets
-│   │   ├── App.css     # Optional: Global styling for your specific components
-│   │   ├── index.css   # Optional: Global CSS for index file
+│   │   ├── About.css
+│   │   ├── Header.css
+│   │   ├── Footer.css
+│   │   ├── Portfolio.css
+│   │   ├── Contact.css
+│   │   ├── Resume.css
+│   │   ├── Project.css
 │   ├── /components     # Contains your React components
 │   │   ├── Header.jsx  # Header component
 │   │   ├── Footer.jsx  # Footer component
@@ -69,6 +74,8 @@ Folders & files
 │   │   ├── Contact.jsx # Contact form section
 │   │   ├── Resume.jsx  # Resume section
 │   │   └── Project.jsx # Reusable project component
+│   ├── App.css         # Optional: Global styles
+│   ├── index.css       # Optional: Global reset/base styles
 │   ├── App.jsx         # Main app file where components come together
 │   ├── main.jsx        # Main entry point to render App into the DOM
 ├── .gitignore          # Keeps unnecessary files out of the git repository
