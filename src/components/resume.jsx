@@ -10,6 +10,20 @@ function Resume() {
         <a href="./assets/resume_gerardo_perez.pdf" download>Download My Resume Here</a>
       </div>
 
+            {/* Skills Section */}
+            <div className="skills-section">
+        <h3>Skills</h3>
+        <ul>
+          <li>JavaScript (ES6+)</li>
+          <li>React.js</li>
+          <li>Node.js</li>
+          <li>HTML5/CSS3</li>
+          <li>REST APIs</li>
+          <li>Version Control (Git/GitHub)</li>
+          <li>Responsive Web Design</li>
+        </ul>
+      </div>
+
 
     </section>
   );
