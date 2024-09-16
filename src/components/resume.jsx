@@ -92,8 +92,9 @@ function Resume() {
       {/* Education Section */}
       <div className="education-section">
         <h3>Education</h3>
-        <p>Full Stack Web Development Bootcamp, ABC Coding Academy | 2022</p>
-        <p>Bachelor of Science in Computer Science, University of XYZ | 2021</p>
+        <p>Full Stack Web Development Bootcamp, University of Texas San Antonio | 2023</p>
+        <p>Certified Entry Level Python Programmer, Goodwill Training Center | 2021</p>
+        <p>Bachelor of Arts in International Relations, University of North Texas | 2015</p>
       </div>
     </section>
   );
