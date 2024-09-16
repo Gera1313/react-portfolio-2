@@ -1,9 +1,48 @@
-import React from 'react';
+import React from "react";
 
 function Footer() {
   return (
-    <footer>
-      <p>© 2024 My Portfolio</p>
+    <footer className="footer">
+      <div className="footer-content">
+        {/* Social Media Links */}
+        {/* GitHub */}
+        <div className="social-links">
+          <a
+            href="https://github.com/Gera1313"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
+          {/* LinkedIn */}
+          <a
+            href="https://www.linkedin.com/in/gerardoperez13/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LinkedIn
+          </a>
+          {/* <h2>Stack Overflow</h2> */}
+          <a
+            href="https://stackoverflow.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Stack Overflow
+          </a>
+          {/* <h2>Spotify</h2> */}
+          <a
+            href="https://open.spotify.com/user/1213083432"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Spotify
+          </a>
+        </div>
+
+        {/* Copyright Information */}
+        <p>© {new Date().getFullYear()} Gerardo Perez. All rights reserved.</p>
+      </div>
     </footer>
   );
 }
