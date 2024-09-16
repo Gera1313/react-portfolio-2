@@ -7,7 +7,7 @@ function Resume() {
 
       {/* Resume Link To Download */}
       <div className="resume-download">
-        <a href="./assets/resume_gerardo_perez.pdf" download>
+        <a href="./public/resume_gerardo_perez.pdf" download>
           Download My Resume Here
         </a>
       </div>
