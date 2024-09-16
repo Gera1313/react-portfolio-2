@@ -63,22 +63,28 @@ function Resume() {
           </ul>
         </div>
         <div className="job">
-          <h4>Freelance Web Developer</h4>
-          <p>Self-employed | June 2021 - Dec 2022</p>
+          <h4>Technical Support Specialist</h4>
+          <p>Neiman Marcus Direct | Oct. 2006 - Mar. 2017</p>
           <ul>
             <li>
-              Built custom websites for small businesses using modern web
-              technologies.
+            Provided multi-channel (chat, email, & phone) technical support to customers in the customer care department, assisting with inquiries, order placements, and resolving package or order issues via online web and our various applications.
             </li>
             <li>
-              Provided ongoing support and updates for existing client websites.
+            Promoted to Tier 2 technical support after one year with the company, responsible for handling escalated customer issues from Tier 1 support and ensuring a timely resolution.
             </li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>Assisted colleagues with inquiries regarding company policies, procedures, and computer systems functionality, serving as a resource for troubleshooting and problem-solving.
+            </li>
+            <li>Provided technical support for Tier 1 agents, offering guidance on complex customer inquiries and escalating issues to Tier 3 support when necessary.
+            </li>
+            <li>
+            Collaborated with cross-functional teams to address systemic issues and improve customer support processes.
+            </li>
+            <li>
+            Contributed to the development and implementation of training programs for new technical support agents, ensuring consistent service delivery and adherence to company standards.
+            </li>
+            <li>
+            Facilitated knowledge sharing sessions to enhance team proficiency in troubleshooting techniques and system functionalities.
+            </li>
           </ul>
         </div>
       </div>
