@@ -7,14 +7,14 @@ function Footer() {
     <footer className="footer">
       <div className="footer-content">
         {/* Social Media Links */}
-        {/* GitHub */}
         <div className="social-links">
+        {/* GitHub */}
           <a
             href="https://github.com/Gera1313"
             target="_blank"
             rel="noopener noreferrer"
           >
-            GitHub
+            <FaGithub className="icon" />
           </a>
           {/* LinkedIn */}
           <a
