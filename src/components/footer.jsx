@@ -1,6 +1,6 @@
 import React from "react";
 import '../styles/Footer.css';
-import { FaGithub } from 'react-icons/fa'; // finish the inside of brackets
+import { FaGithub, FaLinkedin, FaStackOverflow, FaSpotify } from 'react-icons/fa'; // finish the inside of brackets
 
 function Footer() {
   return (
