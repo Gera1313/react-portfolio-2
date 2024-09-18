@@ -1,5 +1,6 @@
 import React from "react";
 import '../styles/Footer.css';
+import { } from 'react-icons/fa'; // finish the inside of brackets
 
 function Footer() {
   return (
