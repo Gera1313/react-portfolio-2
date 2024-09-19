@@ -1,0 +1,78 @@
+.resume-section {
+    padding: 2rem;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.resume-section h2,
+.resume-section h3 {
+    text-align: center;
+    color: #333;
+}
+
+.resume-download {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.resume-download a {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.resume-download a:hover {
+    background-color: #0056b3;
+}
+
+.skills-section ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+.skills-section ul li {
+    display: inline-block;
+    margin: 0.5rem 1rem; 
+    padding: 0.5rem 1rem;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.experience-section,
+.education-section {
+    margin-top: 2rem;
+}
+
+.job {
+    margin-bottom: 2rem;
+}
+
+.job h4 {
+    color: #007bff;
+    font-size: 1.2rem;
+}
+
+.job p {
+    margin: 0.3rem 0; 
+    font-style: italic;
+}
+
+.job ul {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+}
+
+.job ul li {
+    margin-bottom: 0.5rem;
+}
+
+.education-section p {
+    margin: 0.5rem 0;
+    font-weight: bold;
+    text-align: center;
+}
