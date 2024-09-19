@@ -1,3 +1,15 @@
+.about-section {
+
+}
+
+.about-section h2 {
+
+}
+
+.about-content {
+
+}
+
 /* Styling the profile image */
 .profile-picture {
     width: 200px;
@@ -5,16 +17,7 @@
     border-radius: 4%;
     /* margin-right: 20px; */
   }
-  
-  .about-section {
-    padding-left: 20px;
-    /* display: flex;
-    flex-direction: row;
-    align-items: center; */
-    /* padding: 20px; */
-  }
-  
-  .about-content {
-    max-width: 600px;
-    margin-left: 20px;
+
+  .about-content p {
+    
   }
