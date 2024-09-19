@@ -1,5 +1,11 @@
 .about-section {
-
+  background-color: #f4f4f4;
+  padding: 3rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 900px;
+  margin: 2rem auto;
+  text-align: center;
 }
 
 .about-section h2 {
@@ -19,5 +25,5 @@
   }
 
   .about-content p {
-    
+
   }
