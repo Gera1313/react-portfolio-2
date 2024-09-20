@@ -43,7 +43,7 @@ function Footer() {
         </div>
 
         {/* Copyright Information */}
-        <p>© {new Date().getFullYear()} Gerardo Perez. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Gerardo Pérez. All rights reserved.</p>
       </div>
     </footer>
   );
