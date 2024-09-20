@@ -43,11 +43,14 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Usage
 
 - `npm start` - Starts the development server.
+- `npm run dev` - Starts the development server.
 - `npm build` - Prepares your app for production.
 - `npm test` - Runs the test suite.
 
 
 ## Notes
+
+Have yet to set up back-end functionality for the contact form.
 
 Folders & files
 

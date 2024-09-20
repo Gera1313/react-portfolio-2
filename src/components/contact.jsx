@@ -17,8 +17,12 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    // Displays a pop-up message
+    window.alert('Back-end functionality for the contact form is a work in progress. You can reach me via my LinkedIn down below instead. Thank you!');
+
     // Here I would handle form submission (e.g., send data to an email service or API)
     console.log('Form submitted:', formData);
+
     // Clear the form after submission
     setFormData({
       name: '',
