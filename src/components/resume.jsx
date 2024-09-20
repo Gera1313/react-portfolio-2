@@ -21,12 +21,15 @@ function Resume() {
           <li>React.js</li>
           <li>Node.js</li>
           <li>HTML5/CSS3</li>
+          <li>Express</li>
           <li>SQL</li>
           <li>NoSQL</li>
           <li>Python</li>
           <li>REST APIs</li>
           <li>Version Control (Git/GitHub)</li>
           <li>Responsive Web Design</li>
+          <li>jQuery</li>
+          <li>MERN</li>
         </ul>
       </div>
 
