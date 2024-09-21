@@ -5,7 +5,6 @@ import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
-// import './styles/App.css';
 
 function App() {
   return (
@@ -13,9 +12,9 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<About />} />
-        <Route path="/portfolio" element={<Portfolio />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/resume" element={<Resume />} />
+        <Route path="/Portfolio" element={<Portfolio />} />
+        <Route path="/Contact" element={<Contact />} />
+        <Route path="/Resume" element={<Resume />} />
       </Routes>
       <Footer />
     </Router>
