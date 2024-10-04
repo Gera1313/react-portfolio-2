@@ -57,10 +57,9 @@ Folders & files
 /react-portfolio-2
 ├── /node_modules       # Standard folder, auto-generated
 ├── /public             # Public assets, such as images or the favicon
-│   └── vite.svg        # Optional favicon
+│   └── main-aboutme.jpeg        # Optional favicon
+│   └── resume_gerardo_perez.pdf        # Optional favicon
 ├── /src                # Main source code folder
-│   ├── /assets         # Static assets like images
-│   │   └── react.svg
 │   ├── /styles         # Optional: Can hold your CSS/SCSS files if using stylesheets
 │   │   ├── About.css
 │   │   ├── Header.css
@@ -77,8 +76,6 @@ Folders & files
 │   │   ├── Contact.jsx # Contact form section
 │   │   ├── Resume.jsx  # Resume section
 │   │   └── Project.jsx # Reusable project component
-│   ├── App.css         # Optional: Global styles
-│   ├── index.css       # Optional: Global reset/base styles
 │   ├── App.jsx         # Main app file where components come together
 │   ├── main.jsx        # Main entry point to render App into the DOM
 ├── .gitignore          # Keeps unnecessary files out of the git repository
