@@ -52,6 +52,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 Have yet to set up back-end functionality for the contact form.
 
+Deployed site through Netlify CLI. Deploying on the site did not work. 
+
 Folders & files
 
 /react-portfolio-2
@@ -137,11 +139,10 @@ export default defineConfig({
 ```
 
 ## Links
-[React Router tutorial](https://reactrouter.com/en/main/start/tutorial#tutorial)
 
 [GitHub Repo](https://github.com/Gera1313/react-portfolio-2)
 
-[Deployed Site]() 
+[Deployed Site](https://gerardoperez.netlify.app) 
 
 ## Licenses
 
