@@ -1,4 +1,3 @@
-import profilePicture from '../assets/main-aboutme.jpeg';
 import '../styles/About.css';
 
 function About() {
@@ -8,7 +7,7 @@ function About() {
         <div className="about-content">
           {/* Developer's Photo or Avatar */}
           <img
-            src={profilePicture}
+            src="/main-aboutme.jpeg"
             alt="Developer"
             className="profile-picture"
           />
