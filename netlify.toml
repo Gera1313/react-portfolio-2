@@ -3,4 +3,5 @@
   publish = "dist"
 
 [build.environment]
-  NODE_VERSION = "20.7.0"
+  NODE_VERSION = "18.18.0"
+  NETLIFY_USE_THREADS = "false"
