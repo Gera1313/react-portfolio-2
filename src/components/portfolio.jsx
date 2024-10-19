@@ -9,6 +9,7 @@ function Portfolio() {
     { id: 4, title: 'Password Generator', description: 'An application that enables employees to generate random passwords based on criteria that they’ve selected.', link: 'https://gera1313.github.io/Password-Generator/' },
     { id: 5, title: 'Weather Dashboard', description: 'This is a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.', link: 'https://gera1313.github.io/weather-dashboard/' },
     { id: 6, title: 'Country Quiz', description: 'A quiz that tests your knowledge of world capital cities', link: 'https://gera1313.github.io/Country-Quiz/' },
+    { id: 7, title: 'GiveEasy', description: 'A platform where users can create fundraisers for charitable causes, and donors can make contributions.', link: 'https://giveeasy.netlify.app/' },
   ];
 
   return (
