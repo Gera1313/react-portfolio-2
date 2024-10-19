@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaStackOverflow, FaSpotify } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaStackOverflow, FaSpotify, FaEnvelope } from 'react-icons/fa';
 import '../styles/Footer.css';
 
 function Footer() {
@@ -38,6 +38,14 @@ function Footer() {
             rel="noopener noreferrer"
           >
             <FaSpotify className="icon" />
+          </a>
+          {/* Email section while I make the form functional */}
+          <a
+            href="mailto:touya1313@hotmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaEnvelope className="icon" />
           </a>
         </div>
 
