@@ -13,7 +13,7 @@ function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaGithub className="icon" /> {/* GitHub Icon */}
+            <FaGithub className="icon" />
           </a>
           {/* LinkedIn */}
           <a
@@ -21,7 +21,7 @@ function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaLinkedin className="icon" /> {/* LinkedIn Icon */}
+            <FaLinkedin className="icon" />
           </a>
           {/* <h2>Stack Overflow</h2> */}
           <a
@@ -29,7 +29,7 @@ function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaStackOverflow className="icon" /> {/* Stack Overflow Icon */}
+            <FaStackOverflow className="icon" />
           </a>
           {/* <h2>Spotify</h2> */}
           <a
@@ -37,7 +37,7 @@ function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaSpotify className="icon" /> {/* Spotify Icon */}
+            <FaSpotify className="icon" />
           </a>
         </div>
 
