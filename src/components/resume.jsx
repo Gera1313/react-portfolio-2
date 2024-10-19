@@ -66,7 +66,7 @@ function Resume() {
           </ul>
         </div>
         <div className="job">
-          <h4>Technical Support Specialist</h4>
+          <h4>Technical Support Specialist II</h4>
           <p>Neiman Marcus Direct | Oct. 2006 - Mar. 2017</p>
           <ul>
             <li>
