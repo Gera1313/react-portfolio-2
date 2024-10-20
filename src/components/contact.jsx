@@ -19,11 +19,19 @@ function Contact() {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    // Displays a pop-up message
-    window.alert('Back-end functionality for the contact form is a work in progress. You can reach me via email using the envelope icon down below instead. Thank you!');
 
-    // Here I would handle form submission (e.g., send data to an email service or API)
-    console.log('Form submitted:', formData);
+    emailjs
+    .sendForm('service_b6ig9f7', 'template_pmcwpvg', form.current, 'cPA5dUqis1WwkBQVa')
+    .then(
+      (result) => {
+        console.log('SUCCESS!', result.text);
+        window.alert('Message successfully sent!');
+      },
+      (error) => {
+        console.log('FAILED...', error.text);
+        window.alert('Failed to send the message. Please try again later.');
+      }
+    );
 
     // Clear the form after submission
     setFormData({
@@ -57,7 +65,7 @@ function Contact() {
           <input
             type="email"
             id="email"
-            name="email"
+            name="user_email"
             value={formData.email}
             onChange={handleChange}
             required
