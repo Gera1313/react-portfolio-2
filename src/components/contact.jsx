@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 import '../styles/Contact.css';
 
 function Contact() {
+  const form = useRef();
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -16,7 +17,7 @@ function Contact() {
     });
   };
 
-  const handleSubmit = (e) => {
+  const sendEmail = (e) => {
     e.preventDefault();
     // Displays a pop-up message
     window.alert('Back-end functionality for the contact form is a work in progress. You can reach me via email using the envelope icon down below instead. Thank you!');
