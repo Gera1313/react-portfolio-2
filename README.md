@@ -50,11 +50,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Notes
 
-Have yet to set up back-end functionality for the contact form.
-
 Deployed site through Netlify CLI. Deploying on the site did not work. 
-
-Folders & files
 
 ### Getting Started (for my personal use)...
 
