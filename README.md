@@ -56,40 +56,6 @@ Deployed site through Netlify CLI. Deploying on the site did not work.
 
 Folders & files
 
-/react-portfolio-2
-├── /node_modules       # Standard folder, auto-generated
-├── /public             # Public assets, such as images or the favicon
-│   └── main-aboutme.jpeg        # Optional favicon
-│   └── resume_gerardo_perez.pdf        # Optional favicon
-├── /src                # Main source code folder
-│   ├── /styles         # Optional: Can hold your CSS/SCSS files if using stylesheets
-│   │   ├── About.css
-│   │   ├── Header.css
-│   │   ├── Footer.css
-│   │   ├── Portfolio.css
-│   │   ├── Contact.css
-│   │   ├── Resume.css
-│   │   ├── Project.css
-│   ├── /components     # Contains your React components
-│   │   ├── Header.jsx  # Header component
-│   │   ├── Footer.jsx  # Footer component
-│   │   ├── About.jsx   # About Me section
-│   │   ├── Portfolio.jsx # Portfolio section
-│   │   ├── Contact.jsx # Contact form section
-│   │   ├── Resume.jsx  # Resume section
-│   │   └── Project.jsx # Reusable project component
-│   ├── App.jsx         # Main app file where components come together
-│   ├── main.jsx        # Main entry point to render App into the DOM
-├── .gitignore          # Keeps unnecessary files out of the git repository
-├── eslint.config.js    # ESLint configuration for linting
-├── index.html          # Main HTML file, renders the React app
-├── LICENSE             # Optional: License for your project
-├── package-lock.json   # Auto-generated file for npm dependencies
-├── package.json        # Holds project metadata and dependencies
-├── vite.config.js      # Vite configuration file
-└── README.md           # Optional: Description of the project
-
-
 ### Getting Started (for my personal use)...
 
 ### When you would like to scaffold a new `vite` application on your own, follow these steps
