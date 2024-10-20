@@ -45,7 +45,7 @@ function Contact() {
     <section className="contact-section">
       <h2>Contact Me</h2>
       
-      <form onSubmit={handleSubmit} className="contact-form">
+      <form ref={form} onSubmit={sendEmail} className="contact-form">
         {/* Name */}
         <div className="form-group">
           <label htmlFor="name">Name</label>
@@ -65,7 +65,7 @@ function Contact() {
           <input
             type="email"
             id="email"
-            name="user_email"
+            name="email"
             value={formData.email}
             onChange={handleChange}
             required
