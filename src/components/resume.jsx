@@ -70,24 +70,20 @@ function Resume() {
           <p>Neiman Marcus Direct | Oct. 2006 - Mar. 2017</p>
           <ul>
             <li>
-            Provided multi-channel (chat, email, & phone) technical support to customers in the customer care department, assisting with inquiries, order placements, and resolving package or order issues via online web and our various applications.
+            Provided multi-channel technical support (chat, email, and phone) to customers in the customer care department, addressing inquiries, processing orders, and resolving package and order issues through web-based platforms and applications.
             </li>
             <li>
-            Promoted to Tier 2 technical support after one year with the company, responsible for handling escalated customer issues from Tier 1 support and ensuring a timely resolution.
+            Promoted to Tier 2 technical support after one year, handling escalated cases from Tier 1 and delivering timely resolutions through advanced troubleshooting techniques, diagnosing software malfunctions, connectivity issues, and system errors.
             </li>
-            <li>Assisted colleagues with inquiries regarding company policies, procedures, and computer systems functionality, serving as a resource for troubleshooting and problem-solving.
+            <li>Acted as a key resource for colleagues, offering assistance with company policies, procedures, and technical issues related to system performance, software compatibility, and application functionality, with occasional use of basic SQL to resolve data inconsistencies.
             </li>
-            <li>Provided technical support for Tier 1 agents, offering guidance on complex customer inquiries and escalating issues to Tier 3 support when necessary.
+            <li>Supported Tier 1 agents by providing technical guidance on more complex customer issues, such as application crashes, software updates, and network connectivity problems, escalating to Tier 3 when necessary.
             </li>
+            <li>Collaborated with cross-functional teams to identify and resolve root causes of recurring issues and improve customer support processes.</li>
             <li>
-            Collaborated with cross-functional teams to address systemic issues and improve customer support processes.
+            Played an active role in developing and implementing training programs for new technical support agents, ensuring they were equipped to handle common software and system-related issues. 
             </li>
-            <li>
-            Contributed to the development and implementation of training programs for new technical support agents, ensuring consistent service delivery and adherence to company standards.
-            </li>
-            <li>
-            Facilitated knowledge sharing sessions to enhance team proficiency in troubleshooting techniques and system functionalities.
-            </li>
+            <li>Led knowledge-sharing sessions to enhance troubleshooting skills, covering a range of topics from hardware diagnostics to software configuration and system performance optimization.</li>
           </ul>
         </div>
       </div>
