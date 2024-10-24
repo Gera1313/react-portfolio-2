@@ -25,6 +25,7 @@ function Resume() {
           <li>NoSQL</li>
           <li>Python</li>
           <li>REST APIs</li>
+          <li>GraphQL</li>
           <li>Version Control (Git/GitHub)</li>
           <li>Responsive Web Design</li>
           <li>jQuery</li>
