@@ -21,7 +21,9 @@ function Contact() {
     e.preventDefault();
 
     emailjs
-    .sendForm('service_b6ig9f7', 'template_pmcwpvg', form.current, 'cPA5dUqis1WwkBQVa')
+    .sendForm(
+      import.meta.env.VITE_EMAILJS_SERVICE_ID,
+    )
     .then(
       (result) => {
         console.log('SUCCESS!', result.text);
